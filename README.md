@@ -1,18 +1,11 @@
-# Quiz-app-Project
-Quiz-app-Project using Html, Css , Js
 
 # 🧠 Online HTML Quiz App
---------------------------------
+----------------------------
 A fully interactive and responsive **Online Quiz Web Application** built using only **HTML, CSS, and JavaScript**.  
 This project helps users test their knowledge of HTML tags through a series of multiple-choice questions.
 
 ---
 
-## 📸 Preview
-
-> *(Add your own screenshot and place it in the repo — e.g., `preview.png`)*
-```html
-<img src="./preview.png" alt="Quiz App Screenshot" width="600"/>
 🎯 Features
 ✅ 5 multiple-choice questions related to HTML basics
 🧠 Tracks correct answers live
