@@ -5,6 +5,10 @@ This project helps users test their knowledge of HTML tags through a series of m
 
 ---
 
+
+
+```
+<img src="./preview.png" alt="Quiz App Screenshot" width="600"/>
 🎯 Features
 ✅ 5 multiple-choice questions related to HTML basics
 
